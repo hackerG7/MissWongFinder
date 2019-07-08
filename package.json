@@ -1,0 +1,30 @@
+{
+  "name": "online",
+  "version": "1.0.0",
+  "description": "sockets example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "brightness": "^3.0.0",
+    "express": "^4.16.3",
+    "johnny-five": "^1.0.0",
+    "mysql": "^2.16.0",
+    "pngjs": "^3.3.3",
+    "robot": "^0.3.0",
+    "slash": "^2.0.0",
+    "socket.io": "^2.2.0",
+    "system-control": "0.0.5",
+    "tessel-io": "^1.2.0"
+  },
+  "devDependencies": {}
+}
