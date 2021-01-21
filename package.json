@@ -22,7 +22,7 @@
     "pngjs": "^3.3.3",
     "robot": "^0.3.0",
     "slash": "^2.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "system-control": "0.0.5",
     "tessel-io": "^1.2.0"
   },
